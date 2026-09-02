@@ -30,7 +30,7 @@ something isn't showing up.
 
 ### Skills
 
-44 personal/community skills, installed globally for every detected agent
+58 personal/community skills, installed globally for every detected agent
 (Claude Code, OpenCode, Codex, Cursor, GitHub Copilot, ...) via the `skills`
 CLI:
 
@@ -40,10 +40,19 @@ CLI:
 | `Leonxlnx/taste-skill` | brandkit, design-taste-frontend, gpt-taste, imagegen-frontend-mobile, imagegen-frontend-web, minimalist-ui, redesign-existing-projects, stitch-design-taste |
 | `emilkowalski/skills` | animate, animation-vocabulary, apple-design, ask-sonner, emil-design-eng, find-animation-opportunities, improve-animations, pick-ui-library, prototype, review-animations |
 | `vercel-labs/skills` | find-skills |
-| `anthropics/skills` | frontend-design |
+| `anthropics/skills` | frontend-design, skill-creator, mcp-builder, webapp-testing, web-artifacts-builder, claude-api, docx, pdf, pptx, xlsx, canvas-design, theme-factory, brand-guidelines, doc-coauthoring |
 | `blader/humanizer` | humanizer |
 | `addyosmani/web-quality-skills` | accessibility, performance, seo, web-quality-audit |
 | `JuliusBrussee/caveman` | cavecrew, caveman, caveman-commit, caveman-compress, caveman-discover, caveman-evidence-review, caveman-explore, caveman-help, caveman-learn, caveman-manage, caveman-optimize, caveman-review, caveman-setup, caveman-stats, investigate-first, lean-build, migration, safe-refactor, surgical-patch, verify-and-stop |
+| `Monstroxx/luau-script-hub` | luau-script-hub |
+
+`anthropics/skills` also ships `academy-guide`, `discernment-nudge`,
+`internal-comms`, `slack-gif-creator`, and `algorithmic-art`, which were left
+out on purpose: the first two are behavior-nudging skills (steering you
+towards Anthropic's learning site, or appending follow-up questions to every
+substantive answer) rather than task tools, and the rest are
+corporate-Slack/novelty use cases that didn't seem generally useful here. Add
+them the same way (`skill_add anthropics/skills <name>`) if you want them.
 
 OMC's own ~50 Claude-Code-only skills/agents (team, ultragoal, ralph,
 autopilot, planner/executor/architect, ...) are **not** synced to OpenCode on
