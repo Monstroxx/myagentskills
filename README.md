@@ -30,7 +30,7 @@ something isn't showing up.
 
 ### Skills
 
-58 personal/community skills, installed globally for every detected agent
+57 personal/community skills, installed globally for every detected agent
 (Claude Code, OpenCode, Codex, Cursor, GitHub Copilot, ...) via the `skills`
 CLI:
 
@@ -44,7 +44,6 @@ CLI:
 | `blader/humanizer` | humanizer |
 | `addyosmani/web-quality-skills` | accessibility, performance, seo, web-quality-audit |
 | `JuliusBrussee/caveman` | cavecrew, caveman, caveman-commit, caveman-compress, caveman-discover, caveman-evidence-review, caveman-explore, caveman-help, caveman-learn, caveman-manage, caveman-optimize, caveman-review, caveman-setup, caveman-stats, investigate-first, lean-build, migration, safe-refactor, surgical-patch, verify-and-stop |
-| `Monstroxx/luau-script-hub` | luau-script-hub |
 
 `anthropics/skills` also ships `academy-guide`, `discernment-nudge`,
 `internal-comms`, `slack-gif-creator`, and `algorithmic-art`, which were left
