@@ -30,7 +30,7 @@ something isn't showing up.
 
 ### Skills
 
-57 personal/community skills, installed globally for every detected agent
+58 personal/community skills, installed globally for every detected agent
 (Claude Code, OpenCode, Codex, Cursor, GitHub Copilot, ...) via the `skills`
 CLI:
 
@@ -40,6 +40,7 @@ CLI:
 | `Leonxlnx/taste-skill` | brandkit, design-taste-frontend, gpt-taste, imagegen-frontend-mobile, imagegen-frontend-web, minimalist-ui, redesign-existing-projects, stitch-design-taste |
 | `emilkowalski/skills` | animate, animation-vocabulary, apple-design, ask-sonner, emil-design-eng, find-animation-opportunities, improve-animations, pick-ui-library, prototype, review-animations |
 | `vercel-labs/skills` | find-skills |
+| `wonderbird/ai-agent-workspace` | format-docs |
 | `anthropics/skills` | frontend-design, skill-creator, mcp-builder, webapp-testing, web-artifacts-builder, claude-api, docx, pdf, pptx, xlsx, canvas-design, theme-factory, brand-guidelines, doc-coauthoring |
 | `blader/humanizer` | humanizer |
 | `addyosmani/web-quality-skills` | accessibility, performance, seo, web-quality-audit |
