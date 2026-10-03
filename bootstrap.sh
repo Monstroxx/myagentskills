@@ -136,6 +136,7 @@ skill_add emilkowalski/skills animate animation-vocabulary apple-design \
   ask-sonner emil-design-eng find-animation-opportunities improve-animations \
   pick-ui-library prototype review-animations
 skill_add vercel-labs/skills find-skills
+skill_add wonderbird/ai-agent-workspace format-docs
 skill_add anthropics/skills frontend-design skill-creator mcp-builder \
   webapp-testing web-artifacts-builder claude-api docx pdf pptx xlsx \
   canvas-design theme-factory brand-guidelines doc-coauthoring
